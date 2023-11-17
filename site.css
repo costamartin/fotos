@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(245, 235, 235);
+}
+
+div{
+ display:flex;
+}
+
+span{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    height: 500px;
+    width : 900px;
+    display: right;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px;
+
+}
